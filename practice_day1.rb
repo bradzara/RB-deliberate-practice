@@ -19,3 +19,14 @@ number1 = 5
 number2 = 7
 
 puts number1 + number2
+
+# Write a program that uses a variable to store a word, then prints that word in reverse order.
+
+word = "smoothie"
+
+puts word.reverse
+
+# Write a program that uses a variable to store a number, then prints the number times 10.
+
+number = 2
+puts number * 10
